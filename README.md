@@ -1,9 +1,8 @@
 ## ENTER YOUR NAME: Sai Hrishi M
 ## ENTER YOUR REGISTER NO: 212224240140
-## EX: NO.1
 ## DATE: 08.05.2025
 
-# Introduction to Kaggle and Data preprocessing
+#  EX: NO.1 - Introduction to Kaggle and Data preprocessing
 
 ## AIM:
 
