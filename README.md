@@ -56,7 +56,7 @@ print(x)
 y=df.iloc[:,:-1].values
 print(y)
 print(df.isnull().sum())
-df.fillna(df.mean().round(1),inplace=True)
+df.fillna(df.mean(numeric_only=True).round(1), inplace=True)
 print(df.isnull().sum())
 y=df.iloc[:,-1].values
 print(y)
